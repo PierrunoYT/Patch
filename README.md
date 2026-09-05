@@ -12,6 +12,10 @@ Aider lets you pair program with LLMs to start a new project or build on your ex
 </p>
 
 <p align="center">
+This is a modified fork of <a href="https://github.com/Aider-AI/aider">Aider-AI/aider</a>.
+</p>
+
+<p align="center">
   <img
     src="https://aider.chat/assets/screencast.svg"
     alt="aider screencast"
